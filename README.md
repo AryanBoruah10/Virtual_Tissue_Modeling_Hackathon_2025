@@ -6,7 +6,8 @@ Epithelial folding is a key developmental process where flat cell sheets transfo
 
 Orange cell = Epitheial<br> 
 Blue cell = ECM <br>
-
+Red cell = Stroma <br>
+Yellow cell = Muscle cell.
 
 
 
