@@ -4,7 +4,9 @@ We were interested in understanding the biomecahnics of uterine epithelial tissu
 
 Epithelial folding is a key developmental process where flat cell sheets transform into 3D structures through forces like apical constriction, basal expansion, and differential adhesion. Our cc3d model will help reveal how these local cellular mechanics combine to drive large-scale shape changes. By simulating different parameters, models can test hypotheses, predict tissue behavior under perturbations, and guide experiments - offering a clearer understanding of the folding process.
 
-<span style="color: orange;">This text is orange</span>
+Orange cell = Epitheial 
+Blue cell = ECM 
+
 
 
 
